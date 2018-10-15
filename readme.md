@@ -1,5 +1,5 @@
 # Description of Website
-Photography has been a hobbie of mine for a few years now. So I decided to put together a site to showcase some of my photos.
+Photography has been a hobby of mine for a few years now. So, I decided to put together a site to showcase a few of my many photos.
 
 #Deployed link
 http://profuse-jar.surge.sh/index.html
